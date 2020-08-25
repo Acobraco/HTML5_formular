@@ -1,0 +1,79 @@
+.container {
+    background-color:#7297F5;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.kontaktuppgifter {
+    background-color: silver;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: left;
+
+}
+
+.kontaktuppgifter legend {
+    padding: 5px;
+}
+
+.kontaktuppgifter label {
+    padding: 10px;
+}
+
+.kontaktuppgifter input {
+    float: right;
+    width: 40%;
+}
+
+.kontaktuppgifter #datew {
+    width: 40.5%;
+}
+
+.tillagg {
+    background-color: silver;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: left;
+}
+
+.tillagg legend {
+    padding: 5px;
+}
+
+.tillagg label {
+    padding: 10px;
+}
+.tillagg input {
+    float: right;
+    width: 40%;
+}
+
+#ecomment textarea {
+    float: right;
+    resize: none;
+}
+
+.bottom {
+    background-color: silver;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: left;
+}
+
+.bottom label {
+    padding-left: 20px;
+}
+
+.bottom #finalize {
+    text-align: center;
+}

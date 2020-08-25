@@ -1,0 +1,57 @@
+.container {
+    background-color: lightcoral;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.login {
+    background-color: silver;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: left;
+}
+
+.login input {
+    float: right;
+    margin-right: 200px;
+}
+
+.uppgift {
+    background-color: silver;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: left;
+}
+
+.uppgift input {
+    float: right;
+    margin-right: 200px;
+}
+
+.uppgift #colorpicker {
+    width: 28%;
+}
+
+.uppgift #datefield {
+    width: 28%;
+}
+
+.bottom {
+    background-color: silver;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: left;
+}
+
+.bottom #finalize {
+    text-align: center;
+}
